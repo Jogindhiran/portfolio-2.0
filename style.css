@@ -1,0 +1,13 @@
+.profile-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+}
+
+.skills {
+
+    background-color: aquamarine;
+}
